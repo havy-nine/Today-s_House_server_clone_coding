@@ -1,0 +1,54 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "log/.6c1a1f7b9023a40cab0375214d702bb453b1bc33-audit.json",
+    "files": [
+        {
+            "date": 1629356295061,
+            "name": "log/2021-08-19-smart-push.log",
+            "hash": "2255ee69328330fb2b42311a9a0d4fea"
+        },
+        {
+            "date": 1629438956011,
+            "name": "log/2021-08-20-smart-push.log",
+            "hash": "362c219bdc3f54c5c2f5c50c469226c6"
+        },
+        {
+            "date": 1629560385131,
+            "name": "log/2021-08-22-smart-push.log",
+            "hash": "22364c9bc7339260ab276fc9bfbdecdc"
+        },
+        {
+            "date": 1629683135905,
+            "name": "log/2021-08-23-smart-push.log",
+            "hash": "e2d4055a9b8ce2ec9963cc7c5552d0ec"
+        },
+        {
+            "date": 1629736830101,
+            "name": "log/2021-08-24-smart-push.log",
+            "hash": "e6336960d7d46a97afcb7bee5757d205"
+        },
+        {
+            "date": 1629904575122,
+            "name": "log/2021-08-26-smart-push.log",
+            "hash": "cc062cb47355c71d81f173d6dca9e1c1"
+        },
+        {
+            "date": 1629990197711,
+            "name": "log/2021-08-27-smart-push.log",
+            "hash": "bce6801feaad7cfb7887eec1fc8235cf"
+        },
+        {
+            "date": 1630420205244,
+            "name": "log/2021-08-31-smart-push.log",
+            "hash": "f79a8db8cba7f58e2ffe7d308cb29997"
+        },
+        {
+            "date": 1630453227335,
+            "name": "log/2021-09-01-smart-push.log",
+            "hash": "ea431064b338f52e8a647e6a4017fa9c"
+        }
+    ]
+}

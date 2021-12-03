@@ -1,0 +1,31 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 08:40:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 08:41:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 08:42:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 15:18:22"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'option, price\n                    from optionlist\n                             j' at line 1","level":"error","timestamp":"2021-09-01 15:18:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 15:20:26"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'option, ds.price\n                    from optionlist\n                           ' at line 1","level":"error","timestamp":"2021-09-01 15:20:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 15:22:03"}
+{"message":"App - orderDetail Service error\n: Unknown column 'ds.price' in 'field list'","level":"error","timestamp":"2021-09-01 15:22:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 15:22:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 16:25:15"}
+{"message":"App - orderDelivery Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:25:36"}
+{"message":"App - orderPerson Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:25:46"}
+{"message":"App - ordeProduct Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:25:56"}
+{"message":"App - orderDetail Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:26:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 16:30:08"}
+{"message":"App - orderDelivery Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:30:21"}
+{"message":"App - orderPerson Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:30:31"}
+{"message":"App - ordeProduct Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:30:41"}
+{"message":"App - orderDetail Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:30:51"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 16:31:57"}
+{"message":"App - orderDelivery Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:32:09"}
+{"message":"App - orderPerson Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:32:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 16:32:24"}
+{"message":"App - orderDelivery Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:32:36"}
+{"message":"App - orderPerson Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:32:46"}
+{"message":"App - ordeProduct Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:32:56"}
+{"message":"App - orderDetail Service error\n: connect ETIMEDOUT","level":"error","timestamp":"2021-09-01 16:33:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 18:32:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 18:35:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-09-01 18:35:28"}

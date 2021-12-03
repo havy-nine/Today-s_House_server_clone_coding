@@ -1,0 +1,90 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 00:16:15"}
+{"message":"App - getMain Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.productId     from product p\ngroup by p.productId\norder by reviewNum DESC' at line 7","level":"error","timestamp":"2021-08-26 00:16:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 00:16:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 15:54:38"}
+{"message":"App - orderDelivery Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and status = '기본배송지'' at line 2","level":"error","timestamp":"2021-08-26 16:03:36"}
+{"message":"App - orderPerson Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1","level":"error","timestamp":"2021-08-26 16:03:36"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:03:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:04:57"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:04:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:05:34"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:05:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:06:00"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:06:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:06:45"}
+{"message":"App - orderDetail Service error\n: Cannot read property '0' of undefined","level":"error","timestamp":"2021-08-26 16:06:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:07:17"}
+{"message":"App - orderDetail Service error\n: Cannot read property '0' of undefined","level":"error","timestamp":"2021-08-26 16:07:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:07:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:08:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:08:32"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:08:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:09:20"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:09:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:09:51"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:09:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:11:17"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5', `productId` = '1'\n                      or detailSubId =' at line 4","level":"error","timestamp":"2021-08-26 16:11:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:11:53"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:11:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:12:03"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:12:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:12:13"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5', `productId` = '1'\n                      or detailSubId =' at line 4","level":"error","timestamp":"2021-08-26 16:12:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:13:23"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:13:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:13:38"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:13:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:14:25"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:14:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:14:37"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5', `productId` = '1'\n                      or detailSubId =' at line 4","level":"error","timestamp":"2021-08-26 16:14:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:15:50"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5'\n                      or detailSubId = ? and productId = ' at line 4","level":"error","timestamp":"2021-08-26 16:15:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:16:12"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5', `productId` = '1'\n                      or detailSubId =' at line 4","level":"error","timestamp":"2021-08-26 16:16:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:20:42"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5', `productId` = '1' and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:20:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:21:01"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5', `productId` = '1' and productId = ?' at line 5","level":"error","timestamp":"2021-08-26 16:21:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:21:15"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5', `productId` = '1'\n                      or detailSubId =' at line 4","level":"error","timestamp":"2021-08-26 16:21:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:22:12"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', `detailSubId2` = '5', `productId` = '1' or detailSubId = ? and productId = ?' at line 4","level":"error","timestamp":"2021-08-26 16:22:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:22:54"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? and productId = ?' at line 4","level":"error","timestamp":"2021-08-26 16:22:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:24:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:24:53"}
+{"message":"App - orderDetail Service error\n: detailsubId is not defined","level":"error","timestamp":"2021-08-26 16:24:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:25:05"}
+{"message":"App - orderDetail Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 4","level":"error","timestamp":"2021-08-26 16:25:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:25:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:25:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:31:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:31:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:31:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:32:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:33:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 16:35:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:15:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:16:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:22:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:23:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:23:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:26:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:28:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:29:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:30:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 18:31:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 19:18:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:07:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:08:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:10:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:11:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:13:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:13:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:20:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:20:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:21:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 21:21:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-26 22:08:37"}

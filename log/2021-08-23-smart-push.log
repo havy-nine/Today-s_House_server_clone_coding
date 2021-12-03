@@ -1,0 +1,44 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 10:45:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 10:56:46"}
+{"message":"App - getHouses  error\n: mainDao.selecthouses is not a function","level":"error","timestamp":"2021-08-23 10:57:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 10:57:24"}
+{"message":"App - getHouses  error\n: Unknown column 'n' in 'where clause'","level":"error","timestamp":"2021-08-23 10:57:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 10:57:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 10:57:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 10:58:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 10:59:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:00:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:00:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:01:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:04:07"}
+{"message":"App - getHouses  error\n: Unknown column 'views' in 'field list'","level":"error","timestamp":"2021-08-23 11:04:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:04:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:04:34"}
+{"message":"App - getHouses  error\n: Column 'createdAt' in field list is ambiguous","level":"error","timestamp":"2021-08-23 11:04:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:05:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:23:01"}
+{"message":"App - getHouses  error\n: gethouses is not defined","level":"error","timestamp":"2021-08-23 11:23:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 11:23:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:31:29"}
+{"message":"App - getQnA  error\n: selectNoti is not defined","level":"error","timestamp":"2021-08-23 12:32:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:33:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:34:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:35:13"}
+{"message":"App - getQnA  error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from question q\ninner join user u on u.userId = q.userId' at line 2","level":"error","timestamp":"2021-08-23 12:35:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:35:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:35:45"}
+{"message":"App - getQnA  error\n: gethousesp is not defined","level":"error","timestamp":"2021-08-23 12:35:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:36:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:38:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:38:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:47:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:50:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:50:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:51:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:52:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:53:02"}
+{"message":"App - getQnA  error\n: Column 'createdAt' in field list is ambiguous","level":"error","timestamp":"2021-08-23 12:53:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 12:53:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 14:56:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 15:19:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-23 15:20:58"}

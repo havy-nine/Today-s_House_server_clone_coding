@@ -1,0 +1,96 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 00:03:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 00:06:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 00:12:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 00:14:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:14:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:21:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:25:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:29:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:32:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:32:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:33:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:34:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:48:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:50:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:51:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:51:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:52:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:53:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:55:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:56:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:58:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:59:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 01:59:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:00:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:01:30"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:04:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:05:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:05:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:06:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:07:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:07:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:09:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:09:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:10:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:10:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:11:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:11:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:11:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:12:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:13:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:14:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:14:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:17:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:17:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:17:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:18:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:18:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:18:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:19:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:19:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:20:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:20:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:23:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:23:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 02:26:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 04:44:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 04:44:53"}
+{"message":"App - orderAddress Service error\n: Table 'todayHouse.deliverPlace' doesn't exist","level":"error","timestamp":"2021-08-27 04:49:13"}
+{"message":"App - orderAddress Service error\n: Table 'todayHouse.deliverPlace' doesn't exist","level":"error","timestamp":"2021-08-27 04:49:26"}
+{"message":"App - orderAddress Service error\n: Table 'todayHouse.deliverPlace' doesn't exist","level":"error","timestamp":"2021-08-27 04:49:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 04:50:02"}
+{"message":"App - orderAddress Service error\n: Unknown column 'deliverPlace' in 'field list'","level":"error","timestamp":"2021-08-27 04:50:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 04:50:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:44:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:45:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:47:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:47:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:48:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:48:25"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:48:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:49:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:49:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:49:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:50:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:50:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:51:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 06:52:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 07:03:47"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 07:10:00"}
+{"message":"App - myShopping Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc limit 1' at line 1 \n{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc limit 1' at line 1\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"select eventImg from event desc limit 1\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc limit 1' at line 1\"}","level":"error","timestamp":"2021-08-27 07:10:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 07:10:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 07:11:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 09:41:13"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 09:41:20"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 09:43:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 10:03:29"}
+{"message":"App - patchReview Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE userId = '18' and productId = '1'' at line 3 \n{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE userId = '18' and productId = '1'' at line 3\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"UPDATE review \\n  SET durability = 5, price=4, design=4,delivery=5 ,reviewImgUrl='https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/snapshots1583392798_905924.jpeg?gif=1&w=144&h=144&c=c', reviewText='잘받았어요. 디자인 너무 예쁘네요. 가성비 좋은 템인 듯.', \\n  WHERE userId = '18' and productId = '1';\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE userId = '18' and productId = '1'' at line 3\"}","level":"error","timestamp":"2021-08-27 10:05:14"}
+{"message":"App - patchReview Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE userId = '18' and productId = '1'' at line 3 \n{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE userId = '18' and productId = '1'' at line 3\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"UPDATE review \\n  SET durability = 5, price=4, design=4,delivery=5 ,reviewImgUrl='https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/snapshots1583392798_905924.jpeg?gif=1&w=144&h=144&c=c', reviewText='잘받았어요. 디자인 너무 예쁘네요. 가성비 좋은 템인 듯.', \\n  WHERE userId = '18' and productId = '1';\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE userId = '18' and productId = '1'' at line 3\"}","level":"error","timestamp":"2021-08-27 10:16:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 10:18:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 10:31:17"}
+{"message":"App - patchReview Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 \n{\"message\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1\",\"code\":\"ER_PARSE_ERROR\",\"errno\":1064,\"sql\":\"delete from review where userId='18' and productId=?\",\"sqlState\":\"42000\",\"sqlMessage\":\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1\"}","level":"error","timestamp":"2021-08-27 10:32:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 10:32:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 10:51:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 11:06:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 11:07:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-27 11:10:03"}
